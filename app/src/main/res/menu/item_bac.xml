@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="First"
+        android:id="@+id/first"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="Second"
+        android:id="@+id/second"
+        android:icon="@drawable/ic_baseline_closed_caption_24"/>
+    <item android:title="Third"
+        android:id="@+id/third"
+        android:icon="@drawable/ic_baseline_open_with_24"/>
+</menu>
